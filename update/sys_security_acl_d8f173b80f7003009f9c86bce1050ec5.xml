@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_136806_interview_form_table</description>
+        <name>x_136806_interview_form_table</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 10:33:26</sys_created_on>
+        <sys_id>d8f173b80f7003009f9c86bce1050ec5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_136806_interview_form_table</sys_name>
+        <sys_package display_value="interview_form" source="x_136806_interview">f3e1ff380f7003009f9c86bce1050eb0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="interview_form">f3e1ff380f7003009f9c86bce1050eb0</sys_scope>
+        <sys_update_name>sys_security_acl_d8f173b80f7003009f9c86bce1050ec5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 10:33:26</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

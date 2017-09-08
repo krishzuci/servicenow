@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="1755333c0f7003009f9c86bce1050ec2" sys_domain="global" table="x_136806_interview_form_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-23 10:48:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b55333c0f7003009f9c86bce1050ec4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_136806_interview_form_table" name="x_136806_interview_form_table" sys_domain="global" view="Default view">1755333c0f7003009f9c86bce1050ec2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_136806_interview_form_table" sys_domain="global" view="Default view">6fa4bbf80f7003009f9c86bce1050e85</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-23 10:48:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-07 05:23:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0aea7b690f0d03009f9c86bce1050eb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_136806_interview_form_table" name="x_136806_interview_form_table" sys_domain="global" view="Default view">1755333c0f7003009f9c86bce1050ec2</sys_ui_form>
+            <sys_ui_section caption="aa" display_value="aa" name="x_136806_interview_form_table" sys_domain="global" view="Default view">75ea7b690f0d03009f9c86bce1050eb3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-07 05:23:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_136806_interview_form_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-23 10:48:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1755333c0f7003009f9c86bce1050ec2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_136806_interview_form_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="interview_form" source="x_136806_interview">f3e1ff380f7003009f9c86bce1050eb0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="interview_form">f3e1ff380f7003009f9c86bce1050eb0</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1755333c0f7003009f9c86bce1050ec2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-23 10:48:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

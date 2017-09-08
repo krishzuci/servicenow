@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="interview_form Table" language="en" table="x_136806_interview_form_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>interview_form Table</label>
+            <language>en</language>
+            <name>x_136806_interview_form_table</name>
+            <plural>interview_form Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-23 10:33:27</sys_created_on>
+            <sys_id>60f173b80f7003009f9c86bce1050ed6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>interview_form Table</sys_name>
+            <sys_package display_value="interview_form" source="x_136806_interview">f3e1ff380f7003009f9c86bce1050eb0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="interview_form">f3e1ff380f7003009f9c86bce1050eb0</sys_scope>
+            <sys_update_name>sys_documentation_x_136806_interview_form_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-23 10:33:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

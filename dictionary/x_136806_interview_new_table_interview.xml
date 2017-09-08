@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="new_table_interview" max_length="40" name="x_136806_interview_new_table_interview" type="collection">
+        <element attributes="import_attribute_name=Created" label="Created" max_length="40" name="u_created" type="glide_date_time"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=sys_ id" label="sys_ id" max_length="40" name="u_sys__id" type="integer"/>
+        <element attributes="import_attribute_name=Updated by,edge_encryption_enabled=true" label="Updated by" max_length="40" name="u_updated_by" type="string"/>
+    </element>
+</database>

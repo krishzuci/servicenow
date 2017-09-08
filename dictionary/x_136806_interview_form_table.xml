@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="interview_form Table" max_length="40" name="x_136806_interview_form_table" type="collection">
+        <element label="Name" max_length="23" name="name" type="string"/>
+        <element choice="2" label="Status" max_length="15" name="status" type="choice">
+            <choice>
+                <element label="Rejected" value="Rejected"/>
+                <element label="Selected" value="Selected"/>
+                <element label="Waiting list" value="waiting list"/>
+            </choice>
+        </element>
+        <element label="sys_ id" max_length="80" name="u_field_name_1" type="integer"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Assigned to" max_length="1024" name="u_glide_list_1" reference="sys_user" type="glide_list"/>
+        <index name="index">
+            <element name="sys_created_on"/>
+            <element name="sys_created_by"/>
+            <element name="name"/>
+            <element name="status"/>
+            <element name="sys_updated_on"/>
+            <element name="sys_updated_by"/>
+            <element name="sys_mod_count"/>
+            <element name="u_field_name_1"/>
+        </index>
+    </element>
+</database>
